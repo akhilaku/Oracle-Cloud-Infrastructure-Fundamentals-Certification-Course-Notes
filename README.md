@@ -1,2 +1,2 @@
 # Oracle-Cloud-Infrastructure-Fundamentals-Certification-Course-Notes
-In this repository
+In this repository the notes for 
