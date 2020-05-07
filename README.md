@@ -1,0 +1,1 @@
+# Oracle-Cloud-Infrastructure-Fundamentals-Certification-Course-Notes
